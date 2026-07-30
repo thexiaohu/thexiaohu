@@ -1,4 +1,4 @@
-## Hi there 👋
+## 因为学习需要，我尝试在网上搜寻一些滞回曲线的骨架曲线、延性系数等抗震数据的提取工具，找到了两个，但是都是需要付费的。又因为最近AI agent很火，所以我就想借助agent工具做一个滞回曲线提取工具，目前还可以，这次只是一次尝试，而且是一次性的，有需要的自取，为爱发电喵。
 
 <!--
 **thexiaohu/thexiaohu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
